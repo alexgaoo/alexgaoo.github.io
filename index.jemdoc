@@ -17,6 +17,31 @@ GitHub: [https://github.com/alexgaoo/ alexgaoo]\n
 
 ~~~
 
-= About Me
+== About Me
 
 I am currently an intern in the [https://ti.arc.nasa.gov/ Intelligent Systems Division] at [https://www.nasa.gov/centers/ames/home/ NASA Ames Research Center].
+I am also a researcher at the [https://asl.stanford.edu Autonomous Systems Laboratory] at Stanford University.
+Previously, I have worked on independent research with Professor [http://mykel.kochenderfer.com/ Mykel Kochenderfer], director of the [http://web.stanford.edu/group/sisl/cgi-bin/wordpress/ Stanford Intelligent Systems Laboratory].
+
+I founded and captain the [https://gunnzerorobotics.github.io Gunn Zero Robotics Team] which participates in the [https://zerorobotics.mit.edu Zero Robotics Competition].
+We program flight plans and autonomous decision making for the SPHERE satellites on the International Space Station for an annual problem of interest to DARPA, NASA, and MIT.
+Additionally, I am a controls lead for the Gunn Robotics Team, which participates in the [https://www.firstinspires.org/robotics/frc FIRST Robotics Competition].
+
+I was a controls engineer at [http://rloop.org/ rLoop Inc], which designed and manufactured a pod to compete in the [http://www.spacex.com/hyperloop SpaceX Hyperloop Competition].
+We won first place internationally in January 2017.
+
+I have always been deeply passionate about space exploration, and I strive to utilize artificial intelligence to contribute to the field.
+
+On the side, I enjoy road cycling, cooking, and playing guitar and piano.
+
+== Research Interests
+
+I am particularly interested in the fields of robotics and artificial intelligence, as well as aerospace and computer
+engineering.
+
+Specifically, my research lies among:
+- Decision making under uncertainty
+- Autonomous control of space robots
+- Multi-agent control
+
+== Publications
