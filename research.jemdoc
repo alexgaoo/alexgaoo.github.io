@@ -6,7 +6,7 @@
 {}{img_left}{rp.jpeg}{}{200}{}{}
 *SHERPA: Decision Making Under Uncertainty for the Resource Prospector Mission*\n
 /Research conducted with [https://ti.arc.nasa.gov/profile/balaban/ Edward Balaban]/\n
-Developed a decision-support system for the lunar rover aboard the Resource Prospector Mission
+Helped develop a decision-support system for the lunar rover aboard the Resource Prospector Mission.
 ~~~
 
 
@@ -15,10 +15,7 @@ Developed a decision-support system for the lunar rover aboard the Resource Pros
 {}{img_left}{hopperenv.jpg}{}{200}{}{}
 *Coordinated Multi-Agent Control Utlizing Deep Reinforcement Learning*\n
 /Research conducted with [kvfrans.com Kevin Frans] and advised by Professor [http://mykel.kochenderfer.com/ Mykel Kochenderfer] at Stanford University/\n
-We devised a novel deep reinforcement learning algorithm based off of the policy gradient method that tackles multi agent control.\n
+We devised a novel deep reinforcement learning algorithm based off of the policy gradient method for multi agent control.\n
 
 ~~~
 Won first place in the CS category at the [https://science-fair.org/ Synopsys Science and Technology Championship]
-~~~
-
-~~~
