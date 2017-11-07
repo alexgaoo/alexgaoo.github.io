@@ -17,12 +17,12 @@ GitHub: [https://github.com/alexgaoo/ alexgaoo]\n
 == About Me
 
 I am currently interning in the [https://ti.arc.nasa.gov/ Intelligent Systems Division] at [https://www.nasa.gov/centers/ames/home/ NASA Ames Research Center].
-At NASA Ames, I'm working on a decision support system for the Resource Prospector mission lunar rover.
-Previously, I have worked on research with Professor [http://mykel.kochenderfer.com/ Mykel Kochenderfer], director of the [http://web.stanford.edu/group/sisl/cgi-bin/wordpress/ Stanford Intelligent Systems Laboratory].
+At NASA Ames, I'm working on artificial intelligence and decision-making under uncertainty research for the Resource Prospector mission lunar rover and other robotic spacecraft missions.
+Previously, I have worked on multi-agent robot control research with Professor [http://mykel.kochenderfer.com/ Mykel Kochenderfer], director of the [http://web.stanford.edu/group/sisl/cgi-bin/wordpress/ Stanford Intelligent Systems Laboratory].
 
 I founded and currently captain the [https://gunnzerorobotics.github.io Gunn Zero Robotics Team] which participates in the [https://zerorobotics.mit.edu Zero Robotics Competition].
 We program flight plans and autonomous decision making for the SPHERE satellites on the International Space Station for an annual problem of interest to DARPA, NASA, and MIT.
-Additionally, I am a controls lead for the Gunn Robotics Team, which participates in the [https://www.firstinspires.org/robotics/frc FIRST Robotics Competition].
+Additionally, I was a controls lead for the Gunn Robotics Team, which participates in the [https://www.firstinspires.org/robotics/frc FIRST Robotics Competition].
 
 I was a controls engineer at [http://rloop.org/ rLoop Inc], which designed and manufactured a pod to compete in the [http://www.spacex.com/hyperloop SpaceX Hyperloop Competition].
 We won the Innovation Award internationally in January 2017.
@@ -44,6 +44,6 @@ Specifically, my research lies among:
 == Publications
 
 
-. E. Balaban, T. Arnon, M. Shirley, S. Brisson, A. Gao, "System Health Aware POMDP Framework for Planetary Rover Traverse Evaluation and Refinement," /AIAA Science and Technology Forum, Intelligent Systems, Kissimmee FL, January 2018. To Appear.
+. E. Balaban, T. Arnon, M. Shirley, S. Brisson, A. Gao, "System Health Aware POMDP Framework for Planetary Rover Traverse Evaluation and Refinement," /AIAA Science and Technology Forum, Intelligent Systems,/ Kissimmee FL, January 2018. To Appear.
 . E. Balaban, T. Arnon, A. Gao, S. Brisson, M. Kochenderfer, "System Health Enabled Realtime Planning Advisor (SHERPA)". /Manuscript in preparation for AIAA Journal for Aerospace Information Systems./
 . A. Gao, "Development of a Real-Time Decision Support System", /NASA/, August 2017.
